@@ -1,11 +1,11 @@
 # Roger Alves  &#8287; <a href="https://www.linkedin.com/in/roger-alves-de-oliveira-123869381/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/></a>
 Meu nome é Roger Alves de Oliveira, Sou de São Paulo.
-Estou no Primeiro semestre do curso Desenvolvimento de Software Multiplataforma na Fatec
+Estou no Primeiro semestre do curso Desenvolvimento de Software Multiplataforma na Fatec.
 <br>
 
 <div>
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=blue_navy" />
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&theme=blue_navy" /> 
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br" />
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&theme=blue_navy&include_all_commits=true&locale=pt-br" /> 
 
 </div>
 <br>
