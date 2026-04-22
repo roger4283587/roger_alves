@@ -3,9 +3,9 @@ Repositório para eu personalizar meu perfil
 <br>
 
 <div>
-<img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=dark" />
-<img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&theme=dark" /> 
-<img height="130em" align="left" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif"> <img/>
+<img height="120em" align="left" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=dark" />
+<img height="120em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&theme=dark" /> 
+<img height="120em" align="left" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif"> <img/>
 </div>
 <br>
 <br>
