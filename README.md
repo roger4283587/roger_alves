@@ -2,12 +2,12 @@
 Repositório para eu personalizar meu perfil
 <br>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=dark" />
       </td>
-    <td>
+    <td style="border: none;">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&card_height=320" />
       </td>
   </tr>
