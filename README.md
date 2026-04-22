@@ -8,7 +8,7 @@ Repositório para eu personalizar meu perfil
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=dark" />
       </td>
     <td style="border: none;">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&card_height=320" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
       </td>
   </tr>
 </table>
