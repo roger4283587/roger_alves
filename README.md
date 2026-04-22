@@ -4,7 +4,7 @@ Repositório para eu personalizar meu perfil
 
 <table>
   <tr>
-    <td>
+    <td style="border: none;">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=dark" />
       </td>
     <td>
