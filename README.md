@@ -81,9 +81,6 @@ Repositório para eu personalizar meu perfil
 ---
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 <img src="https://raw.githubusercontent.com/roger4283587/roger_alves/output/snake.svg" alt="Snake animation" />
