@@ -2,16 +2,11 @@
 Repositório para eu personalizar meu perfil
 <br>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td>
-      <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=dark" />
-      </td>
-    <td>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&theme=dark" />
-      </td>
-  </tr>
-</table>
+<div>
+<img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=roger4283587&show_icons=true&theme=dark" />
+<img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</div>
+
 
   
 <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif"> <img/>
